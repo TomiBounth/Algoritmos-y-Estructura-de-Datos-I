@@ -1,4 +1,4 @@
 # Algoritmos-y-Estructura-de-Datos-I
 Proyectos de la materia.
 
-Proyecto I de haskell enfocado en la programación de funciones predefinidas.
+Proyectos de haskell enfocado en la programación de funciones predefinidas.
